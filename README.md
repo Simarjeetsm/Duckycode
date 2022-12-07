@@ -1,6 +1,6 @@
 # Duckycode
 
-This code can only be used for Arduino Boards
+This code can be used for Arduino Boards
 
 ![Arduino](https://user-images.githubusercontent.com/86152101/192807955-7f3fa92c-2807-4f5d-b392-eb9d544fa174.jpg)
 
