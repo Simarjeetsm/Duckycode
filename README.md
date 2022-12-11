@@ -23,7 +23,7 @@ USB Rubber ducky is an HID device that looks similar to a USB Pen drive. It is a
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fdigispark-attiny85-usb-development-board-mini-arduino-21839543712.html&psig=AOvVaw27KHa1O9pcOCljFL_kDahF&ust=1670824308702000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjFt9rv8PsCFQAAAAAdAAAAABAD
+https://5.imimg.com/data5/WC/CI/EW/SELLER-46400568/digispark-attiny85-usb-development-board-mini-arduino-500x500.jpg
 
 
 # Disclaimer
