@@ -19,8 +19,9 @@ USB Rubber ducky is an HID device that looks similar to a USB Pen drive. It is a
 
 
 
-#DIGISPARK
+# What is DIGISPARK?
 
+The Digispark is an Attiny85 based microcontroller development board similar to the Arduino line, only cheaper, smaller, and a bit less powerful. With a whole host of shields to extend its functionality and the ability to use the familiar Arduino IDE the Digispark is a great way to jump into electronics, or perfect for when an Arduino is too big or too much.
 
 
 ![Digispark](https://5.imimg.com/data5/WC/CI/EW/SELLER-46400568/digispark-attiny85-usb-development-board-mini-arduino-500x500.jpg)
