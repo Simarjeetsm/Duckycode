@@ -29,4 +29,4 @@ The Digispark is an Attiny85 based microcontroller development board similar to 
 
 # Disclaimer
  Use for Education purpose only.
- We will not be responsible for any misuse of this code
+ I will not be responsible for any misuse of this code
