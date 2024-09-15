@@ -1,7 +1,3 @@
-/*
- * Generated with <3 by Dckuino.js, an open source project !
- */
-
 #include "Keyboard.h"
 
 void typeKey(uint8_t key)
