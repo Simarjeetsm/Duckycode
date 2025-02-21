@@ -27,6 +27,6 @@ The Digispark is an Attiny85 based microcontroller development board similar to 
 ![Digispark](https://5.imimg.com/data5/WC/CI/EW/SELLER-46400568/digispark-attiny85-usb-development-board-mini-arduino-500x500.jpg)
 
 
-# Disclaimer`💀
+# Disclaimer💀
  Use for Education purpose only.
  I will not be responsible for any misuse of this code
