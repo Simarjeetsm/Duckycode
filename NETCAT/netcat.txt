@@ -1,28 +1,27 @@
 #include "Keyboard.h"
 
-void typeKey(uint8_t key)
-{
+void typeKey(uint8_t key) {
   Keyboard.press(key);
   delay(50);
   Keyboard.release(key);
 }
 
 /* Init function */
-void setup()
-{
+void setup() {
   // Begining the Keyboard stream
   Keyboard.begin();
 
   // Wait 500ms
+
   delay(500);
 
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
   Keyboard.releaseAll();
 
-  delay(500);
+  delay(1000);
 
-  Keyboard.print("powershell");
+  Keyboard.print("powershell -WindowStyle Hidden");
 
   delay(1000);
 
@@ -31,11 +30,11 @@ void setup()
   Keyboard.press(KEY_RETURN);
   Keyboard.releaseAll();
 
-  delay(1000);
+  delay(1500);
 
   typeKey(KEY_LEFT_ARROW);
 
-  delay(500);
+  delay(1000);
 
   typeKey(KEY_RETURN);
 
